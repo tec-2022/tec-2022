@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="profile-title profile-description">
+  <title id="profile-title">Fredy Vidalón — Estudiante de Ingeniería Informática</title>
+  <desc id="profile-description">Banner de perfil de Fredy Vidalón, usuario tec-2022, en Tijuana, Baja California. Desarrollo web y tecnología educativa. Fondo azul marino con detalles geométricos de código y nodos en azul y cian.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11243F"/>
+      <stop offset="1" stop-color="#081422"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="22" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="21" fill="none" stroke="#253C56"/>
+  <rect x="60" y="34" width="42" height="4" rx="2" fill="url(#accent)"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="60" y="70" fill="#9DC8E8" font-size="18" font-weight="600" letter-spacing="2">DESARROLLO WEB / TECNOLOGÍA EDUCATIVA</text>
+    <text x="56" y="154" fill="#F2F7FF" font-size="76" font-weight="700" letter-spacing="-2">Fredy <tspan fill="#7DD3FC">Vidalón</tspan></text>
+    <text x="60" y="200" fill="#DAE7F5" font-size="30" font-weight="400">Estudiante de Ingeniería Informática</text>
+    <text x="60" y="248" fill="#A6BBD1" font-size="22">Tijuana, Baja California <tspan fill="#5CA9D6">·</tspan> @tec-2022</text>
+  </g>
+
+  <g aria-hidden="true" fill="none">
+    <path d="M860 79H888M1098 222H1138V184M1070 54V35H1140" stroke="#253F5C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="888" y="60" width="228" height="180" rx="20" fill="#101F34" stroke="#2D4663"/>
+    <path d="M888 99H1116" stroke="#2D4663"/>
+    <g fill="#4D708F">
+      <circle cx="910" cy="80" r="3"/>
+      <circle cx="923" cy="80" r="3"/>
+      <circle cx="936" cy="80" r="3"/>
+    </g>
+    <path d="M965 134L936 161L965 188M1039 134L1068 161L1039 188" stroke="#7DD3FC" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1012 128L992 194" stroke="#5A98E9" stroke-width="7" stroke-linecap="round"/>
+    <path d="M942 216H985M996 216H1020" stroke="#355978" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="860" cy="79" r="5" fill="#081422" stroke="#5E91B5" stroke-width="2"/>
+    <circle cx="1138" cy="179" r="5" fill="#081422" stroke="#67E8F9" stroke-width="2"/>
+    <circle cx="1145" cy="35" r="5" fill="#081422" stroke="#4E7A9E" stroke-width="2"/>
+  </g>
+</svg>
