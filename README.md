@@ -3,30 +3,27 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tec-2022?tab=repositories">Explorar proyectos</a>
-  &nbsp; · &nbsp;
   <a href="https://orcid.org/0009-0006-4569-6920">ORCID</a>
 </p>
 
 ## Hola, soy Fredy 👋
 
-Soy **Fredy Luis Vidalón Lozano**, estudiante de **Ingeniería Informática** en Tijuana, Baja California. Desarrollo proyectos web que conectan educación, gestión de información e integración de inteligencia artificial.
+Soy **Fredy Luis Vidalón Lozano**, estudiante de **Ingeniería Informática** en Tijuana, Baja California. Me interesa crear soluciones web útiles, claras y bien organizadas, con enfoque en educación, gestión de información e integración de inteligencia artificial.
 
-En este espacio comparto aplicaciones, prácticas y proyectos de aprendizaje: desde bibliotecas virtuales hasta herramientas de retroalimentación académica y sitios con asistentes de IA.
+Trabajo principalmente con aplicaciones web modernas, bases de datos e interfaces pensadas para que la información sea más fácil de consultar, administrar y convertir en decisiones.
 
-## Proyectos destacados
+## Enfoque actual
 
-| Proyecto | Qué encontrarás |
-| :--- | :--- |
-| **[Encuesta de cursos](https://github.com/tec-2022/encuesta-curso)** | Retroalimentación académica con formularios, panel de métricas y reportes. <br> <sub>Next.js · TypeScript · Supabase · Recharts</sub> |
-| **[Biblioteca virtual](https://github.com/tec-2022/bbotk)** | Catálogo con búsqueda y filtros, acceso de usuarios y administración de libros. <br> <sub>Next.js · TypeScript · Prisma</sub> |
-| **[LVL Tech](https://github.com/tec-2022/lvltechmx)** | Sitio web con un chat integrado con la API de Google Gemini. <br> <sub>JavaScript · HTML · CSS · Gemini API</sub> |
+- Desarrollo web con React, Next.js y TypeScript.
+- Interfaces para educación, administración y consulta de información.
+- Integraciones con servicios externos e inteligencia artificial.
+- Aprendizaje constante, mejora técnica y construcción de proyectos con propósito.
 
-## Tecnologías en mis proyectos
+## Tecnologías
 
-**Desarrollo web** &nbsp; `TypeScript` `JavaScript` `React` `Next.js` `Tailwind CSS`
+**Frontend** &nbsp; `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
 
-**Datos e integraciones** &nbsp; `Supabase` `Prisma` `Google Gemini API`
+**Datos e integraciones** &nbsp; `Supabase` `Prisma` `APIs` `IA`
 
 ---
 
