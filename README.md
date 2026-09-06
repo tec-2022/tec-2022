@@ -17,7 +17,7 @@ Trabajo principalmente con aplicaciones web modernas, bases de datos e interface
 - Desarrollo web con React, Next.js y TypeScript.
 - Interfaces para educación, administración y consulta de información.
 - Integraciones con servicios externos e inteligencia artificial.
-- Aprendizaje constante, mejora técnica y construcción de proyectos con propósito.
+- Aprendizaje constante, mejora técnica y construcción de soluciones con propósito.
 
 ## Tecnologías
 
