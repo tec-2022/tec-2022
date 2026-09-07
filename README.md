@@ -12,8 +12,10 @@
   <img src="https://img.shields.io/badge/Tijuana%2C%20MX-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tijuana, México" />
 </p>
 
+<h3 align="center">Stack principal</h3>
+
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="TypeScript, JavaScript, C#/.NET, Python, Go, HTML5, CSS3, SQL, React, Next.js, Vite, Tailwind CSS, Node.js, Supabase, Prisma, PostgreSQL, Docker, Vercel, Astro, APIs, Recharts y Lucide" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,dotnet,py,go,html,css,react,nextjs,astro,vite,tailwind,nodejs,express,supabase,prisma,postgres,docker,vercel" alt="TypeScript, JavaScript, C#, .NET, Python, Go, HTML5, CSS3, React, Next.js, Astro, Vite, Tailwind CSS, Node.js, Express, Supabase, Prisma, PostgreSQL, Docker y Vercel" />
 </p>
 
 <p align="center">
