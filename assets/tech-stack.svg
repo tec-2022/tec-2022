@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="tech-title tech-desc">
   <title id="tech-title">Stack de Fredy Vidalón</title>
-  <desc id="tech-desc">Tecnologías: TypeScript, JavaScript, C#/.NET, Python, Go, HTML5, CSS3, SQL, React, Next.js, Vite, Tailwind CSS, Node.js, Supabase, Prisma, PostgreSQL, Docker, Vercel, OpenAI/Astra, APIs, Recharts y Lucide.</desc>
+  <desc id="tech-desc">Tecnologías: TypeScript, JavaScript, C#/.NET, Python, Go, HTML5, CSS3, SQL, React, Next.js, Vite, Tailwind CSS, Node.js, Supabase, Prisma, PostgreSQL, Docker, Vercel, Astro, APIs, Recharts y Lucide.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#020617"/>
@@ -64,8 +64,10 @@
       <rect x="358" width="130" height="40" rx="13" fill="#102A43" stroke="#60A5FA"/><text class="chipText" x="380" y="27">PostgreSQL</text>
       <rect x="502" width="94" height="40" rx="13" fill="#0B2A44" stroke="#38BDF8"/><text class="chipText" x="524" y="27">Docker</text>
       <rect x="610" width="86" height="40" rx="13" fill="#111827" stroke="#F8FAFC"/><text class="chipText" x="633" y="27">Vercel</text>
-      <rect x="710" width="150" height="40" rx="13" fill="#2E1065" stroke="#A78BFA"/><text class="chipText" x="731" y="27">OpenAI/Astra</text>
-      <rect x="874" width="70" height="40" rx="13" fill="#3B2F12" stroke="#F59E0B"/><text class="chipText" x="898" y="27">APIs</text>
+      <rect x="710" width="92" height="40" rx="13" fill="#2E1065" stroke="#BC52EE"/><text class="chipText" x="735" y="27">Astro</text>
+      <rect x="816" width="70" height="40" rx="13" fill="#3B2F12" stroke="#F59E0B"/><text class="chipText" x="840" y="27">APIs</text>
     </g>
   </g>
 </svg>
+
+

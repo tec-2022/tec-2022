@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/Lucide-111827?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide" />
@@ -40,11 +41,10 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/OpenAI%20Astra-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Astra" />
 </p>
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="TypeScript, JavaScript, C#/.NET, Python, Go, HTML5, CSS3, SQL, React, Next.js, Vite, Tailwind CSS, Node.js, Supabase, Prisma, PostgreSQL, Docker, Vercel, OpenAI/Astra, APIs, Recharts y Lucide" />
+  <img src="./assets/tech-stack.svg" width="100%" alt="TypeScript, JavaScript, C#/.NET, Python, Go, HTML5, CSS3, SQL, React, Next.js, Vite, Tailwind CSS, Node.js, Supabase, Prisma, PostgreSQL, Docker, Vercel, Astro, APIs, Recharts y Lucide" />
 </p>
 
 <p align="center">
@@ -57,10 +57,10 @@ Soy **Fredy Luis Vidalón Lozano**, estudiante de **Ingeniería Informática** e
 
 ## Enfoque actual
 
-- Desarrollo web con React, Next.js, Vite, TypeScript, JavaScript, HTML5, CSS3 y Tailwind CSS.
+- Desarrollo web con React, Next.js, Astro, Vite, TypeScript, JavaScript, HTML5, CSS3 y Tailwind CSS.
 - Backends, datos e integraciones con Node.js, Express, Supabase, Prisma, PostgreSQL, Docker, Vercel y APIs.
 - Práctica académica con C#/.NET, Python, Go y SQL.
-- Exploración de inteligencia artificial aplicada con OpenAI/Astra y asistentes para productos web.
+- Exploración de sitios modernos con Astro e inteligencia artificial aplicada en productos web.
 - Interfaces para educación, administración, análisis y consulta de información.
 - Aprendizaje constante, mejora técnica y construcción de soluciones con propósito.
 
@@ -70,3 +70,4 @@ Soy **Fredy Luis Vidalón Lozano**, estudiante de **Ingeniería Informática** e
   <strong>Tijuana, Baja California</strong> &nbsp; · &nbsp; Lvltech Mx<br>
   <sub>Aprender, construir y seguir mejorando.</sub>
 </p>
+
