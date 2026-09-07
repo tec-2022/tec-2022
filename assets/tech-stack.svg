@@ -1,38 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="tech-title tech-desc">
-  <title id="tech-title">Tecnologías de Fredy Vidalón</title>
-  <desc id="tech-desc">Tira visual con tecnologías: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Supabase, Prisma, APIs e IA.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="tech-title tech-desc">
+  <title id="tech-title">Stack de Fredy Vidalón</title>
+  <desc id="tech-desc">Tecnologías: TypeScript, JavaScript, C#/.NET, Python, Go, HTML5, CSS3, SQL, React, Next.js, Vite, Tailwind CSS, Node.js, Supabase, Prisma, PostgreSQL, Docker, Vercel, OpenAI/Astra, APIs, Recharts y Lucide.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B1220"/>
-      <stop offset="1" stop-color="#111827"/>
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
     </linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#38BDF8"/>
-      <stop offset="0.5" stop-color="#22C55E"/>
-      <stop offset="1" stop-color="#F59E0B"/>
+      <stop offset="0.45" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22C55E"/>
     </linearGradient>
+    <style>
+      .label { font: 800 16px 'Segoe UI', Arial, sans-serif; letter-spacing: 2px; fill: #E5F2FF; }
+      .chipText { font: 800 18px 'Segoe UI', Arial, sans-serif; fill: #F8FAFC; }
+      .sub { font: 500 18px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
+    </style>
   </defs>
-  <rect width="1200" height="180" rx="20" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1198" height="178" rx="19" fill="none" stroke="#263449"/>
-  <rect x="52" y="42" width="1096" height="3" rx="2" fill="url(#line)"/>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="54" y="28" fill="#E5F2FF" font-size="18" font-weight="700" letter-spacing="2">STACK PRINCIPAL</text>
-    <g font-size="25" font-weight="700">
-      <rect x="54" y="76" width="124" height="48" rx="14" fill="#111F35" stroke="#38BDF8"/>
-      <text x="82" y="108" fill="#DDF7FF">React</text>
-      <rect x="194" y="76" width="132" height="48" rx="14" fill="#151D2C" stroke="#94A3B8"/>
-      <text x="220" y="108" fill="#F8FAFC">Next.js</text>
-      <rect x="342" y="76" width="160" height="48" rx="14" fill="#11203A" stroke="#60A5FA"/>
-      <text x="370" y="108" fill="#DBEAFE">TypeScript</text>
-      <rect x="518" y="76" width="154" height="48" rx="14" fill="#292312" stroke="#FACC15"/>
-      <text x="544" y="108" fill="#FEF3C7">JavaScript</text>
-      <rect x="688" y="76" width="172" height="48" rx="14" fill="#0E2530" stroke="#22D3EE"/>
-      <text x="716" y="108" fill="#CFFAFE">Tailwind</text>
-      <rect x="876" y="76" width="144" height="48" rx="14" fill="#0F2A20" stroke="#34D399"/>
-      <text x="902" y="108" fill="#D1FAE5">Supabase</text>
-      <rect x="1036" y="76" width="112" height="48" rx="14" fill="#171923" stroke="#CBD5E1"/>
-      <text x="1060" y="108" fill="#F1F5F9">Prisma</text>
+  <rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="25" fill="none" stroke="#263449"/>
+  <circle cx="1030" cy="40" r="150" fill="#2563EB" opacity="0.18"/>
+  <circle cx="130" cy="325" r="180" fill="#7C3AED" opacity="0.18"/>
+  <rect x="54" y="52" width="1092" height="3" rx="2" fill="url(#line)"/>
+
+  <g transform="translate(54 28)">
+    <text class="label" x="0" y="0">STACK REAL DETECTADO</text>
+    <text class="sub" x="0" y="44">Lenguajes · frontend · backend · cloud · IA aplicada</text>
+  </g>
+
+  <g transform="translate(54 98)">
+    <text class="label" x="0" y="0">LENGUAJES</text>
+    <g transform="translate(0 24)">
+      <rect width="140" height="40" rx="13" fill="#17335F" stroke="#60A5FA"/><text class="chipText" x="20" y="27">TypeScript</text>
+      <rect x="154" width="138" height="40" rx="13" fill="#423B12" stroke="#FACC15"/><text class="chipText" x="174" y="27" fill="#FEF3C7">JavaScript</text>
+      <rect x="306" width="122" height="40" rx="13" fill="#351B62" stroke="#A78BFA"/><text class="chipText" x="326" y="27">C#/.NET</text>
+      <rect x="442" width="106" height="40" rx="13" fill="#123456" stroke="#60A5FA"/><text class="chipText" x="464" y="27">Python</text>
+      <rect x="562" width="76" height="40" rx="13" fill="#063344" stroke="#22D3EE"/><text class="chipText" x="585" y="27">Go</text>
+      <rect x="652" width="92" height="40" rx="13" fill="#431407" stroke="#FB923C"/><text class="chipText" x="674" y="27">HTML5</text>
+      <rect x="758" width="82" height="40" rx="13" fill="#172554" stroke="#38BDF8"/><text class="chipText" x="781" y="27">CSS3</text>
+      <rect x="854" width="70" height="40" rx="13" fill="#1F2937" stroke="#CBD5E1"/><text class="chipText" x="878" y="27">SQL</text>
     </g>
-    <text x="54" y="154" fill="#91A4B7" font-size="20">Interfaces web · bases de datos · APIs · inteligencia artificial</text>
+  </g>
+
+  <g transform="translate(54 182)">
+    <text class="label" x="0" y="0">FRONTEND Y UI</text>
+    <g transform="translate(0 24)">
+      <rect width="104" height="40" rx="13" fill="#11263A" stroke="#38BDF8"/><text class="chipText" x="25" y="27">React</text>
+      <rect x="118" width="104" height="40" rx="13" fill="#111827" stroke="#F8FAFC"/><text class="chipText" x="139" y="27">Next.js</text>
+      <rect x="236" width="80" height="40" rx="13" fill="#312E81" stroke="#A78BFA"/><text class="chipText" x="259" y="27">Vite</text>
+      <rect x="330" width="132" height="40" rx="13" fill="#083344" stroke="#22D3EE"/><text class="chipText" x="351" y="27">Tailwind</text>
+      <rect x="476" width="118" height="40" rx="13" fill="#3B0764" stroke="#C084FC"/><text class="chipText" x="498" y="27">Recharts</text>
+      <rect x="608" width="92" height="40" rx="13" fill="#111827" stroke="#94A3B8"/><text class="chipText" x="631" y="27">Lucide</text>
+    </g>
+  </g>
+
+  <g transform="translate(54 266)">
+    <text class="label" x="0" y="0">BACKEND · CLOUD · IA</text>
+    <g transform="translate(0 24)">
+      <rect width="106" height="40" rx="13" fill="#0B2F22" stroke="#34D399"/><text class="chipText" x="21" y="27">Node.js</text>
+      <rect x="120" width="116" height="40" rx="13" fill="#0F2A20" stroke="#34D399"/><text class="chipText" x="141" y="27">Supabase</text>
+      <rect x="250" width="94" height="40" rx="13" fill="#171923" stroke="#CBD5E1"/><text class="chipText" x="271" y="27">Prisma</text>
+      <rect x="358" width="130" height="40" rx="13" fill="#102A43" stroke="#60A5FA"/><text class="chipText" x="380" y="27">PostgreSQL</text>
+      <rect x="502" width="94" height="40" rx="13" fill="#0B2A44" stroke="#38BDF8"/><text class="chipText" x="524" y="27">Docker</text>
+      <rect x="610" width="86" height="40" rx="13" fill="#111827" stroke="#F8FAFC"/><text class="chipText" x="633" y="27">Vercel</text>
+      <rect x="710" width="150" height="40" rx="13" fill="#2E1065" stroke="#A78BFA"/><text class="chipText" x="731" y="27">OpenAI/Astra</text>
+      <rect x="874" width="70" height="40" rx="13" fill="#3B2F12" stroke="#F59E0B"/><text class="chipText" x="898" y="27">APIs</text>
+    </g>
   </g>
 </svg>
