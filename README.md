@@ -3,12 +3,22 @@
 </p>
 
 <p align="center">
+  <a href="https://tec-2022.github.io/">
+    <img src="./assets/portfolio-cta.svg" width="100%" alt="Explora el portafolio de Fredy Vidalón: proyectos, demos y trayectoria" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Proyectos reales · Demos en vivo · Trayectoria profesional</strong><br>
+  <sub>Disponible en español e inglés</sub>
+</p>
+
+<p align="center">
   <a href="https://orcid.org/0009-0006-4569-6920">ORCID</a>
 </p>
 
 <p align="center">
   <a href="https://orcid.org/0009-0006-4569-6920"><img src="https://img.shields.io/badge/ORCID-0009--0006--4569--6920-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://tec-2022.github.io/"><img src="https://img.shields.io/badge/Portafolio-ver%20sitio-C7FF3D?style=for-the-badge&logo=googlechrome&logoColor=08110F" alt="Ver portafolio de Fredy Vidalón" /></a>
   <a href="https://github.com/sponsors/tec-2022"><img src="https://img.shields.io/badge/Sponsor-open--source%20education-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor tec-2022 on GitHub Sponsors" /></a>
   <img src="https://img.shields.io/badge/Ingenier%C3%ADa%20Inform%C3%A1tica-1f6feb?style=for-the-badge&logo=academia&logoColor=white" alt="Ingeniería Informática" />
   <img src="https://img.shields.io/badge/Tijuana%2C%20MX-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tijuana, México" />
