@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://orcid.org/0009-0006-4569-6920"><img src="https://img.shields.io/badge/ORCID-0009--0006--4569--6920-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://github.com/sponsors/tec-2022"><img src="https://img.shields.io/badge/Sponsor-open--source%20education-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor tec-2022 on GitHub Sponsors" /></a>
   <img src="https://img.shields.io/badge/Ingenier%C3%ADa%20Inform%C3%A1tica-1f6feb?style=for-the-badge&logo=academia&logoColor=white" alt="Ingeniería Informática" />
   <img src="https://img.shields.io/badge/Tijuana%2C%20MX-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tijuana, México" />
 </p>
@@ -34,6 +35,10 @@ Soy **Fredy Luis Vidalón Lozano**, estudiante de **Ingeniería Informática** e
 - Exploración de sitios modernos con Astro e inteligencia artificial aplicada en productos web.
 - Interfaces para educación, administración, análisis y consulta de información.
 - Aprendizaje constante, mejora técnica y construcción de soluciones con propósito.
+
+## Apoya mi trabajo de código abierto 💖
+
+Si alguno de estos proyectos ayuda a ti, a tu clase o a tu comunidad, puedes [patrocinar mi trabajo en GitHub](https://github.com/sponsors/tec-2022). Tu apoyo financia mantenimiento, documentación, accesibilidad, demos públicas y recursos educativos gratuitos en español e inglés.
 
 ---
 
