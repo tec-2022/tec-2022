@@ -25,7 +25,7 @@
 
 ## Hola, soy Fredy 👋
 
-Soy **Fredy Luis Vidalón Lozano**, estudiante de **Ingeniería Informática** en Tijuana, Baja California. Me interesa crear soluciones web útiles, claras y bien organizadas, con enfoque en educación, gestión de información e integración de inteligencia artificial.
+Soy **Fredy Vidalón**, estudiante de **Ingeniería Informática** en Tijuana, Baja California. Me interesa crear soluciones web útiles, claras y bien organizadas, con enfoque en educación, gestión de información e integración de inteligencia artificial.
 
 ## Stack y enfoque actual
 
