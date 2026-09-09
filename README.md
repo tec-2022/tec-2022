@@ -51,6 +51,8 @@ Soy **Fredy Vidalón**, estudiante de **Ingeniería Informática** en Tijuana, B
 
 Si alguno de estos proyectos ayuda a ti, a tu clase o a tu comunidad, puedes [patrocinar mi trabajo en GitHub](https://github.com/sponsors/tec-2022). Tu apoyo financia mantenimiento, documentación, accesibilidad, demos públicas y recursos educativos gratuitos en español e inglés.
 
+🗞️ [Última actualización pública: septiembre de 2026](updates/2026-09.md) · [Calendario editorial](CONTENT_CALENDAR.md)
+
 ---
 
 <p align="center">
