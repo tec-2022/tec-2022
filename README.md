@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://tec-2022.github.io/">
-    <img src="./assets/portfolio-cta.svg" width="100%" alt="Explora el portafolio de Fredy Vidalón: proyectos, demos y trayectoria" />
+    <img src="./assets/portfolio-cta.svg" width="60%" alt="Explora el portafolio de Fredy Vidalón: proyectos, demos y trayectoria" />
   </a>
 </p>
 
