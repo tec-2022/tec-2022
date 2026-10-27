@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="profile-title profile-description">
-  <title id="profile-title">Fredy Vidalón — Estudiante de Ingeniería Informática</title>
-  <desc id="profile-description">Banner de perfil de Fredy Vidalón, usuario tec-2022, en Tijuana, Baja California. Desarrollo web y tecnología educativa. Fondo azul marino con detalles geométricos de código y nodos en azul y cian.</desc>
+  <title id="profile-title">Fredy Vidalón — Soporte TI e infraestructura</title>
+  <desc id="profile-description">Banner de perfil de Fredy Vidalón, usuario tec-2022, en Tijuana, Baja California. Soporte TI, infraestructura y automatización. Fondo azul marino con detalles geométricos de código y nodos en azul y cian.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#11243F"/>
@@ -17,9 +17,9 @@
   <rect x="60" y="34" width="42" height="4" rx="2" fill="url(#accent)"/>
 
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="60" y="70" fill="#9DC8E8" font-size="18" font-weight="600" letter-spacing="2">DESARROLLO WEB / TECNOLOGÍA EDUCATIVA</text>
+    <text x="60" y="70" fill="#9DC8E8" font-size="18" font-weight="600" letter-spacing="2">SOPORTE TI / INFRAESTRUCTURA</text>
     <text x="56" y="154" fill="#F2F7FF" font-size="76" font-weight="700" letter-spacing="-2">Fredy <tspan fill="#7DD3FC">Vidalón</tspan></text>
-    <text x="60" y="200" fill="#DAE7F5" font-size="30" font-weight="400">Estudiante de Ingeniería Informática</text>
+    <text x="60" y="200" fill="#DAE7F5" font-size="30" font-weight="400">Soporte TI · Automatización · Sistemas</text>
     <text x="60" y="248" fill="#A6BBD1" font-size="22">Tijuana, Baja California <tspan fill="#5CA9D6">·</tspan> @tec-2022</text>
   </g>
 
