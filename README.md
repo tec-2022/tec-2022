@@ -1,62 +1,70 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Fredy Vidalón · Estudiante de Ingeniería Informática · Desarrollo web y tecnología educativa" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Fredy Vidalón · Soporte TI, infraestructura y automatización · Estudiante de Ingeniería Informática" />
 </p>
 
 <p align="center">
   <a href="https://tec-2022.github.io/">
-    <img src="./assets/portfolio-cta.svg" width="60%" alt="Explora el portafolio de Fredy Vidalón: proyectos, demos y trayectoria" />
+    <img src="./assets/portfolio-cta.svg" width="60%" alt="Visita el portafolio de Fredy Vidalón: proyectos, demos y trayectoria" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Proyectos reales · Demos en vivo · Trayectoria profesional</strong><br>
-  <sub>Disponible en español e inglés</sub>
+  <strong>Soporte técnico · Automatización · Sistemas y redes</strong>
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/fredylvl/">LinkedIn</a> ·
+  <a href="https://tec-2022.github.io/">Portafolio bilingüe</a> ·
   <a href="https://orcid.org/0009-0006-4569-6920">ORCID</a>
-</p>
-
-<p align="center">
-  <a href="https://orcid.org/0009-0006-4569-6920"><img src="https://img.shields.io/badge/ORCID-0009--0006--4569--6920-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://github.com/sponsors/tec-2022"><img src="https://img.shields.io/badge/Sponsor-open--source%20education-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor tec-2022 on GitHub Sponsors" /></a>
-  <img src="https://img.shields.io/badge/Ingenier%C3%ADa%20Inform%C3%A1tica-1f6feb?style=for-the-badge&logo=academia&logoColor=white" alt="Ingeniería Informática" />
-  <img src="https://img.shields.io/badge/Tijuana%2C%20MX-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tijuana, México" />
-</p>
-
-<h3 align="center">Stack principal</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,dotnet,py,go,html,css,react,nextjs,astro,vite,tailwind,nodejs,express,supabase,prisma,postgres,docker,vercel" alt="TypeScript, JavaScript, C#, .NET, Python, Go, HTML5, CSS3, React, Next.js, Astro, Vite, Tailwind CSS, Node.js, Express, Supabase, Prisma, PostgreSQL, Docker y Vercel" />
-</p>
-
-<p align="center">
-  <img src="./assets/profile-focus.svg" width="100%" alt="Áreas de enfoque: desarrollo web, información organizada e IA aplicada" />
 </p>
 
 ## Hola, soy Fredy 👋
 
-Soy **Fredy Vidalón**, estudiante de **Ingeniería Informática** en Tijuana, Baja California. Me interesa crear soluciones web útiles, claras y bien organizadas, con enfoque en educación, gestión de información e integración de inteligencia artificial.
+Soy **Fredy Luis Vidalón Lozano**, estudiante de **Ingeniería Informática** en Tijuana, México. Mi objetivo profesional es desarrollarme en **soporte TI, operación de sistemas e infraestructura**, apoyándome en la automatización y el desarrollo de herramientas útiles.
 
-## Stack y enfoque actual
+Me interesa diagnosticar problemas, preparar equipos, documentar soluciones y reducir tareas repetitivas. Aquí comparto proyectos de práctica y código abierto; **no los presento como experiencia laboral en producción**.
 
-- Desarrollo web con React, Next.js, Astro, Vite, TypeScript, JavaScript, HTML5, CSS3 y Tailwind CSS.
-- Backends, datos e integraciones con Node.js, Express, Supabase, Prisma, PostgreSQL, Docker, Vercel y APIs.
-- Práctica académica con C#/.NET, Python, Go y SQL.
-- Exploración de sitios modernos con Astro e inteligencia artificial aplicada en productos web.
-- Interfaces para educación, administración, análisis y consulta de información.
-- Aprendizaje constante, mejora técnica y construcción de soluciones con propósito.
+## Proyectos que respaldan mi perfil
 
-## Apoya mi trabajo de código abierto 💖
+| Proyecto | Evidencia técnica | Enlace |
+| --- | --- | --- |
+| **Academic Automation Kit** | Diagnóstico y preparación de equipos Windows, validación de software con Winget, comprobaciones de instalación, Python y PowerShell. | [Código y guía](https://github.com/tec-2022/-academic-automation-kit) |
+| **LVL Mail** | Proyecto de backend e infraestructura de correo con endpoints de salud, seguimiento de mensajes, control de accesos y pruebas de seguridad documentadas. | [Arquitectura y código](https://github.com/tec-2022/LVL-Mail) |
+| **Academic Professional Portal** | Aplicación web con verificaciones automatizadas, pruebas de navegador, accesibilidad, CI y documentación técnica. | [Código](https://github.com/tec-2022/uabc-professional-portal) · [Demo](https://prueba-pi-eight.vercel.app) |
+| **GitHub Profile Booster** | Herramienta de código abierto para evaluar evidencia pública en perfiles y presentar resultados reproducibles. | [Código](https://github.com/tec-2022/github-profile-booster) · [Demo](https://tec-2022.github.io/github-profile-booster/) |
 
-Si alguno de estos proyectos ayuda a ti, a tu clase o a tu comunidad, puedes [patrocinar mi trabajo en GitHub](https://github.com/sponsors/tec-2022). Tu apoyo financia mantenimiento, documentación, accesibilidad, demos públicas y recursos educativos gratuitos en español e inglés.
+## Herramientas y áreas de práctica
 
-🗞️ [Última actualización pública: septiembre de 2026](updates/2026-09.md) · [Calendario editorial](CONTENT_CALENDAR.md)
+- **Soporte de equipos:** Windows, preparación de entornos, instalación y verificación de aplicaciones, diagnóstico y documentación de incidencias.
+- **Automatización:** Python, PowerShell y herramientas de línea de comandos para comprobaciones y tareas repetitivas.
+- **Sistemas y servicios:** uso de Linux y terminal, fundamentos de conectividad, Git, Docker y conceptos de despliegue y monitoreo.
+- **Desarrollo que complementa el soporte:** JavaScript/TypeScript, SQL, APIs y aplicaciones web.
+
+> **En formación continua:** redes TCP/IP, DNS, DHCP, SSH, administración de Linux y resolución estructurada de incidentes. Estos son campos de aprendizaje, no certificaciones ni experiencia profesional que todavía no he acreditado.
+
+<p align="center">
+  <img src="./assets/profile-focus.svg" width="100%" alt="Enfoque profesional: soporte TI, infraestructura y automatización" />
+</p>
+
+## Objetivo profesional
+
+Busco oportunidades **junior / nivel inicial** en soporte técnico, mesa de ayuda (Help Desk), operaciones TI o infraestructura, en Tijuana o en modalidad remota compatible con mi ubicación y autorización laboral.
+
+**English:** Informatics Engineering student based in Tijuana, Mexico, interested in entry-level IT support, systems operations and infrastructure. I build practical tools for Windows diagnostics, software setup, automation and technical documentation. [Projects and portfolio](https://tec-2022.github.io/).
+
+## Contacto
+
+- [LinkedIn — Fredy Luis Vidalón Lozano](https://www.linkedin.com/in/fredylvl/)
+- [Portafolio — español e inglés](https://tec-2022.github.io/)
+- [Repositorios públicos](https://github.com/tec-2022?tab=repositories)
 
 ---
 
-<p align="center">
-  <strong>Tijuana, Baja California</strong> &nbsp; · &nbsp; Lvltech Mx<br>
-  <sub>Aprender, construir y seguir mejorando.</sub>
-</p>
+Si alguno de mis proyectos educativos o de código abierto te resulta útil, puedes [apoyar su mantenimiento en GitHub Sponsors](https://github.com/sponsors/tec-2022).
 
+📌 [Actualización pública de septiembre de 2026](updates/2026-09.md) · [Calendario editorial](CONTENT_CALENDAR.md)
+
+<p align="center">
+  <strong>Tijuana, Baja California · Lvltech Mx</strong><br>
+  <sub>Aprender, documentar, resolver y mejorar.</sub>
+</p>
